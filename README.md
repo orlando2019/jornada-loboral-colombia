@@ -6,7 +6,7 @@ markmap:
 
 # Jornada Laboral en Colombia
 
-La jornada laboral en Colombia está regulada por el Código Sustantivo del Trabajo.
+La jornada laboral en Colombia está regulada por el Código Sustantivo del Trabajo en articulo 161.
 
 ## 1. Equipo
 
